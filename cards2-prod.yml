@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards2:
+  message: "Welcome to Eemrezcn cards related prod APIs "
+  contactDetails:
+    name: "Emre OZCAN - Product Owner"
+    email: "eemrezcn5@eazybank.com"
+  onCallSupport:
+    - (617) 432-2356
+    - (936) 564-8721
