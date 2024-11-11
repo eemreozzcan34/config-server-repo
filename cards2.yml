@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards2:
-  message: "Welcome to Eemrezcn cards related local APIs "
+  message: "Welcome to Eemrezcn cards related production APIs "
   contactDetails:
     name: "Emre OZCAN - Developer"
     email: "eemrezcn8@eazybank.com"
