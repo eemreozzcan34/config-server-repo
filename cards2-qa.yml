@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards2:
+  message: "Welcome to Eemrezcn cards related QA APIs "
+  contactDetails:
+    name: "Emre OZCAN - QA Lead"
+    email: "eemrezcn7@eazybank.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267
