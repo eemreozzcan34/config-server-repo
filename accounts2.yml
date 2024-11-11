@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts2:
-  message: "Welcome to Eemrezcn accounts related local APIs "
+  message: "Welcome to Eemrezcn accounts related prod APIs "
   contactDetails:
     name: "Emre OZCAN- Developer"
     email: "eemrezcn3@eazybank.com"
