@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans2:
+  message: "Welcome to Eemrezcn loans related prod APIs "
+  contactDetails:
+    name: "Emre OZCAN - Product Owner"
+    email: "eemrezcn8@eazybank.com"
+  onCallSupport:
+    - (723) 656-8709
+    - (156) 342-0956
