@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts2:
+  message: "Welcome to Eemrezcn accounts related local APIs "
+  contactDetails:
+    name: "Emre OZCAN- Developer"
+    email: "eemrezcn3@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
